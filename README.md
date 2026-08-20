@@ -1,0 +1,2 @@
+# gorecj
+research notes
